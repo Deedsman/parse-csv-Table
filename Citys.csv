@@ -1,0 +1,4 @@
+fullName,phone,email,age,experience,yearlyIncome,hasChildren,license,date,licenseNumber
+Doggy,18787878,fdf@dfdfd.com,23,,ewew,TRUE,"New    York,Texas,Los    Angeles",,34
+Doggy,18787878,fdf@dfdfd.com,23,5,ewew,FALSE,New York,24.67,34
+Doggy,+18787878,fdf@dfdfd.com,23,,ewew,TRUE,Alabama,,34
